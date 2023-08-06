@@ -1,3 +1,15 @@
+# Next.js Practice
+
+This is Project which adlet0331 developing own webpage in GOOOODzz ROKA.   
+Single, Simple Challenge : Develop with ONLY OFFICIAL DOC sites. ex. [Next.js](https://nextjs.org/)    
+
+## 2023-08-06
++ Project Created.
++ Start Reading Next.js Documentation.
+
+
+------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
