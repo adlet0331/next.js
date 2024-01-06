@@ -14,12 +14,11 @@ export default class LoginForm extends Component{
     }
 
     render(){
-
         return(
-            <>
-                <label htmlFor="input_id">ID: </label>
-                <input type="text" name="input_id" value={this.state.inputId} onChange={this.handleIdChanged}/>
-            </>
+        <div style={{ height: '200px', width: "400px", display: 'flex', flexDirection: 'column', alignItems: 'flex-start'}}>
+            <label htmlFor="input_id">ID: </label>
+            <input type="text" name="input_id" value={this.state.inputId} onChange={this.handleIdChanged}/>
+        </div>
         )
     }
 }
